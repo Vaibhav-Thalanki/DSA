@@ -9,3 +9,7 @@ _[Challenge 1](https://leetcode.com/study-plan/algorithm/?progress=cu10owr)_
 ### Day 2
 
 > leetcode 704, 278, 35
+
+### Day 3
+
+> leetcode 977, 189
