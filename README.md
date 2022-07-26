@@ -17,3 +17,8 @@ _[Challenge 1](https://leetcode.com/study-plan/algorithm/?progress=cu10owr)_
 ### Day 4
 
 > leetcode 283, 167
+
+### Day 5
+
+> leetcode 344,557
+
