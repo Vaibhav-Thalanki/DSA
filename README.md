@@ -22,3 +22,6 @@ _[Challenge 1](https://leetcode.com/study-plan/algorithm/?progress=cu10owr)_
 
 > leetcode 344,557
 
+### Day 6
+
+> leetcode 876,19
