@@ -25,3 +25,11 @@ _[Challenge 1](https://leetcode.com/study-plan/algorithm/?progress=cu10owr)_
 ### Day 6
 
 > leetcode 876,19
+
+### Day 7
+
+> leetcode 3,567
+
+### Day 8
+
+> leetcode 733,
