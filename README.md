@@ -32,4 +32,8 @@ _[Challenge 1](https://leetcode.com/study-plan/algorithm/?progress=cu10owr)_
 
 ### Day 8
 
-> leetcode 733,
+> leetcode 733
+
+### Day 8
+
+> leetcode 695
