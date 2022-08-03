@@ -45,3 +45,7 @@ _[Challenge 1](https://leetcode.com/study-plan/algorithm/?progress=cu10owr)_
 ### Day 11
 
 > leetcode 116
+
+### Day 12
+
+> leetcode 542
