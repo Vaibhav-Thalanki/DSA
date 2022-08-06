@@ -53,3 +53,7 @@ _[Challenge 1](https://leetcode.com/study-plan/algorithm/?progress=cu10owr)_
 ### Day 13
 
 > leetcode 994
+
+### Day 14
+
+> leetcode 21
